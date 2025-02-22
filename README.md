@@ -7,7 +7,7 @@
 ## 🏆 Skills & Expertise
 ✔️ Languages: [JavaScript, TypeScript, C#, Python]  
 ✔️ Frameworks: [React, Angular, Vue, Node.js, .NET, .NET Core, Postgres, SQL Server, Microsoft Dynamics 365, Power BI]  
-✔️ Tools: [Docker, Kubernetes, AWS, AZURE, GCP, GitHub, BitBucket, TeamCity, Vite, Snowflake, Playwright, Cypress]
+✔️ Tools: [Docker, Kubernetes, AWS, Azure, GCP, GitHub, BitBucket, TeamCity, Vite, Snowflake, Playwright, Cypress]
 
 ## 🌟 Featured Projects
 At present working as Senior Engineer at BlackRock.

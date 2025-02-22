@@ -13,4 +13,4 @@
 At present working as Senior Engineer at BlackRock.
 
 ## 📬 Connect with Me
-🔗 [LinkedIn](https://www.linkedin.com/harissg)
+🔗 [LinkedIn](https://www.linkedin.com/in/harissg/)

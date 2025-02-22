@@ -10,7 +10,7 @@
 ✔️ Tools: [Docker, Kubernetes, AWS, Azure, GCP, GitHub, BitBucket, TeamCity, Vite, Snowflake, Playwright, Cypress]
 
 ## 🌟 Featured Projects
-At present working as Senior Engineer at BlackRock.
+At present working as Software Engineer(Associate) at BlackRock.
 
 ## 🌟 Review my curernt and past experience!
 🔗 [CV](https://1drv.ms/w/c/a2f6cf8ddc57b53b/EUvB337rOQBJq7AnwtSyQagB18UXhgT7x7-LvOHcCuThDg)

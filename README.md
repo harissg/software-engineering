@@ -6,18 +6,18 @@
 ---
 
 ## 🏆 About Me
-- 🔹 **10+ years of experience** leading and delivering scalable software solutions 
-- 🔹 **Customer and product-focused**, dedicated to building intuitive solutions that simplify complex problems and enhance user experience 
-- 🔹 Advocate for **high performance teams**, **continuous learning**, **mentorship**, and fostering **collaborative team cultures**
-- 🔹 Experienced in **FinTech, supply chain, automotive and emerging technologies**
-- 🔹 Firm believer in **agile development, DevOps best practices, and scalable architecture** 
+🔹 **10+ years of experience** leading and delivering scalable software solutions 
+🔹 **Customer and product-focused**, dedicated to building intuitive solutions that simplify complex problems and enhance user experience 
+🔹 Advocate for **high performance teams**, **continuous learning**, **mentorship**, and fostering **collaborative team cultures**
+🔹 Experienced in **FinTech, supply chain, automotive and emerging technologies**
+🔹 Firm believer in **agile development, DevOps best practices, and scalable architecture** 
 
 ---
 
 ## 🛠️ Tech Stack
-- 🔹 **Languages:** JavaScript, TypeScript, C#, Python  
-- 🔹 **Frameworks & Platforms:** React, Angular, Vue, Node.js, .NET, .NET Core, Postgres, SQL Server, Microsoft Dynamics 365, Power BI  
-- 🔹 **Cloud & DevOps:** Docker, Kubernetes, AWS, Azure, GCP, Heroku, GitHub, BitBucket, TeamCity, Vite, Snowflake, Playwright, Cypress 
+🔹 **Languages:** JavaScript, TypeScript, C#, Python  
+🔹 **Frameworks & Platforms:** React, Angular, Vue, Node.js, .NET, .NET Core, Postgres, SQL Server, Microsoft Dynamics 365, Power BI  
+🔹 **Cloud & DevOps:** Docker, Kubernetes, AWS, Azure, GCP, Heroku, GitHub, BitBucket, TeamCity, Vite, Snowflake, Playwright, Cypress 
 ---
 
 ## 🌟 Experience & Leadership

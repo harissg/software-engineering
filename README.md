@@ -1,18 +1,32 @@
-# 👋 Hello, I'm Haris.
+# 👋 Hello, I'm Haris
 
-🚀 **Senior Software Engineer | Scrum Master
+🚀 **Senior Software Engineer | Scrum Master**  
+🎯 Passionate about **clean code, empowering people, and building efficient, high-performing teams and always striving to deliver value to our customers**
 
-🎯 Focused on writing clean, scalable, and efficient code with a passion for building efficient teams and products!
+---
 
-## 🏆 Skills & Expertise
-✔️ Languages: [JavaScript, TypeScript, C#, Python]  
-✔️ Frameworks: [React, Angular, Vue, Node.js, .NET, .NET Core, Postgres, SQL Server, Microsoft Dynamics 365, Power BI]  
-✔️ Tools: [Docker, Kubernetes, AWS, Azure, GCP, GitHub, BitBucket, TeamCity, Vite, Snowflake, Playwright, Cypress]
+## 🏆 About Me
+- 🔹 **10+ years of experience** leading and delivering scalable software solutions
+- 🔹 **Customer and product-focused**, dedicated to building intuitive solutions that simplify complex problems and enhance user experience
+- 🔹 Advocate for **continuous learning**, **mentorship**, and fostering **collaborative team cultures**
+- 🔹 Experienced in **FinTech, supply chain, and emerging technologies**
+- 🔹 Strong believer in **agile development, DevOps best practices, and scalable architecture** 
+---
 
-## 🌟 Featured Projects
-At present working as Software Engineer(Associate) at BlackRock.
+## 🛠️ Tech Stack
+🔹 **Languages:** JavaScript, TypeScript, C#, Python  
+🔹 **Frameworks & Platforms:** React, Angular, Vue, Node.js, .NET, .NET Core, Postgres, SQL Server, Microsoft Dynamics 365, Power BI  
+🔹 **Cloud & DevOps:** Docker, Kubernetes, AWS, Azure, GCP, Heroku, GitHub, BitBucket, TeamCity, Vite, Snowflake, Playwright, Cypress 
+---
 
-## 🌟 Review my curernt and past experience!
-🔗 [CV](https://1drv.ms/w/c/a2f6cf8ddc57b53b/EUvB337rOQBJq7AnwtSyQagB18UXhgT7x7-LvOHcCuThDg)
-## 📬 Connect with Me
-🔗 [LinkedIn](https://www.linkedin.com/in/harissg/)
+## 🌟 Experience & Leadership
+🏢 **At present working as a Software Engineer @BlackRock**  
+
+🔗 [Click here to view my cv](https://1drv.ms/w/c/a2f6cf8ddc57b53b/EUvB337rOQBJq7AnwtSyQagB18UXhgT7x7-LvOHcCuThDg)
+
+---
+
+## 📫 Connect
+💼 **[LinkedIn](https://www.linkedin.com/in/harissg/)**
+
+⭐ **Always open to discussions on leadership, tech, innovation and life!**  

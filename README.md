@@ -22,7 +22,7 @@
 ## 🌟 Experience & Leadership
 🏢 **At present working as a Software Engineer @BlackRock**  
 
-🔗 [Click here to view my cv](https://1drv.ms/w/c/a2f6cf8ddc57b53b/EUvB337rOQBJq7AnwtSyQagB18UXhgT7x7-LvOHcCuThDg)
+🔗 [Click here to view my cv](https://1drv.ms/b/c/a2f6cf8ddc57b53b/EeZl_0-NA1xPtOyyxAf3aBkBC6qcVKOgqKR2zVQkAp_9ZQ?e=fno3B3)
 
 ---
 

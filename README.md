@@ -10,7 +10,7 @@
 - 🔹 **Customer and product-focused**, dedicated to building intuitive solutions that simplify complex problems and enhance user experience
 - 🔹 Advocate for **continuous learning**, **mentorship**, and fostering **collaborative team cultures**
 - 🔹 Experienced in **FinTech, supply chain, and emerging technologies**
-- 🔹 Strong believer in **agile development, DevOps best practices, and scalable architecture** 
+- 🔹 Firm believer in **agile development, DevOps best practices, and scalable architecture** 
 ---
 
 ## 🛠️ Tech Stack

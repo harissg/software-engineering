@@ -12,12 +12,6 @@
 - 🔹 Experienced in **FinTech, supply chain, automotive, and emerging technologies**
 - 🔹 Firm believer in **agile development, DevOps best practices, and scalable architecture**
 ---
-## 🛠️ Tech Stack
-- **Languages:** JavaScript, TypeScript, C#, Python
-- **Frameworks & Platforms:** React, Angular, Vue, Node.js, .NET, .NET Core, Postgres, SQL Server, Microsoft Dynamics 365, Power BI
-- **Cloud & DevOps:** Docker, Kubernetes, AWS, Azure, GCP, Heroku, GitHub, BitBucket, TeamCity, Vite, Snowflake, Playwright, Cypress
-
----
 
 ## 🌟 Experience
 🏢 **Currently working as a Software Engineer @ BlackRock**

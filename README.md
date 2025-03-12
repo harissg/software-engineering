@@ -17,7 +17,7 @@
 ## 🌟 Experience
 🏢 **Currently working as a Software Engineer @ BlackRock**
 
-📄 **[Click here to view my CV](https://1drv.ms/b/c/a2f6cf8ddc57b53b/EeZl_0-NA1xPtOyyxAf3aBkBC6qcVKOgqKR2zVQkAp_9ZQ?e=fno3B3)**
+📄 **[Click here to view my CV](https://1drv.ms/b/c/a2f6cf8ddc57b53b/EcSVABMDKxdAgiBPDDqTC1IBYvSXp2cB1h_QEXau_N3E7Q?e=PRdOsv)**
 
 ---
 

@@ -24,4 +24,4 @@
 ## 📫 Connect
 
 ⭐ **Always open to discussions on leadership, tech, innovation, and life!**  
-💼 **[LinkedIn](https://www.linkedin.com/in/harissg/)**
+💼 **[LinkedIn](https://www.linkedin.com/in/harissg/)**,  **[Email](contact.harissg@gmail.com)**
